@@ -9,3 +9,5 @@ Helsingin yliopiston Ohjelmoinnin harjoitustyö -kurssille tehty luolastoseikkai
 * [Käyttöohjeet](Dokumentaatio/Käyttöohjeet.md)
 * [Rakenteen kuvaus](Dokumentaatio/Rakenteen kuvaus.md)
 * [Testausdokumentaatio](Dokumentaatio/Testausdokumentaatio.md)
+
+## Kehitys jatkuu englanniksi repossa [Tangentium](https://github.com/Nanofus/Tangentium)
