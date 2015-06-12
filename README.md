@@ -2,7 +2,7 @@
 Helsingin yliopiston Ohjelmoinnin harjoitustyö -kurssille tehty luolastoseikkailupeli.
 
 ## Valmis peli
-* [Tangential 1.0](https://github.com/Nanofus/Tangential/releases/tag/v1.0)
+* [Tangential 1.1](https://github.com/Nanofus/Tangential/releases/tag/1.1)
 
 ## Oheiset tiedostot
 * [Aiheen kuvaus ja rakenne](Dokumentaatio/Aiheen kuvaus ja rakenne.md)
